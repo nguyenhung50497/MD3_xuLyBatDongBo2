@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.13",
+    "axios": "^1.2.1"
+  }
+}
